@@ -7,8 +7,8 @@ class Projects extends Component {
         super();
         this.state = {
             projects: []
-        }
-    };
+        };
+    }
 
     componentDidMount() {
         axios.get('./src/data/projects.json')
@@ -37,11 +37,10 @@ class Projects extends Component {
         
 
         return (
-
             <div className="ui main container">
              <h1 className="ui header">My Projects</h1>
                 <div className="ui stackable four column grid">
-                 {projectList}
+                 {projectsList}
                  </div>
             </div>
         )
