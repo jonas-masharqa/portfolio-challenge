@@ -1,0 +1,23 @@
+[
+    {
+       "id": 1,
+       "school": "Yrkesplugget",
+       "education": "Gymnasium (17,3 Merit-Points)"
+
+    },
+    {
+        "id": 2,
+        "school": "Hi3g/Mobilizera/Canal-Digital",
+        "education": "Sales course"
+    },
+    {
+        "id": 3,
+        "school": "Circle K",
+        "education": "Security course"
+    },
+    {
+        "id": 4,
+        "school": "Circle K",
+        "education": "Sales course"
+    }
+]

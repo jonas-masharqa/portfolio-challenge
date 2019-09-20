@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "job": "Hi3g Access AB",
+        "role": "Store salesman"
+    },
+    {
+        "id": 2,
+        "job": "Hi3g Access AB",
+        "role": "Salessupport/Administrator"
+    },
+    {
+        "id": 3,
+        "job": "Frösunda Omsorg AB",
+        "role": "Caretaker"
+    },
+    {
+        "id": 4,
+        "job": "Circle K",
+        "role": "Store Salesman"
+    },
+    {
+
+    }
+]
